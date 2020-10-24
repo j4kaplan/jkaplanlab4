@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../jkaplanlab3/.idea/jkaplanlab3.iml" filepath="$PROJECT_DIR$/../jkaplanlab3/.idea/jkaplanlab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/jkaplanlab4.iml" filepath="$PROJECT_DIR$/.idea/jkaplanlab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../week6inperson/.idea/week6inperson.iml" filepath="$PROJECT_DIR$/../week6inperson/.idea/week6inperson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../week8inperson/.idea/week8inperson.iml" filepath="$PROJECT_DIR$/../week8inperson/.idea/week8inperson.iml" />
     </modules>
   </component>
 </project>

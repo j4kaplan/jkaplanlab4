@@ -6,5 +6,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="week8inperson" />
+    <orderEntry type="module" module-name="jkaplanlab3" />
+    <orderEntry type="module" module-name="week6inperson" />
   </component>
 </module>

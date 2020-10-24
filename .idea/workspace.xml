@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc9b2516-1897-43ba-a406-4b58a45cc2ac" name="Default Changelist" comment="" />
+    <list default="true" id="dc9b2516-1897-43ba-a406-4b58a45cc2ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jkaplanlab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jkaplanlab4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +19,55 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="179f7a05-0d54-40d0-8558-37578479a13b" />
   <component name="ProjectId" id="1jHW5zmcV0LXmeO7MxmbtOxZDKt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="lab4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jkaplanlab4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/lab4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab4" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603461319194</updated>
       <workItem from="1603461336033" duration="736000" />
+      <workItem from="1603557468136" duration="5542000" />
     </task>
     <servers />
   </component>
@@ -44,5 +90,44 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="433" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1603461380222" />
+    <state x="578" y="354" key="Github.ShareDialog" timestamp="1603557721146">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="578" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1603557721146" />
+    <state x="477" y="155" key="Github.UntrackedFilesDialog" timestamp="1603557729916">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="477" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1603557729916" />
+    <state width="978" height="245" key="GridCell.Tab.0.bottom" timestamp="1603570971538">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603562297779" />
+    <state width="978" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1603570971538" />
+    <state width="978" height="245" key="GridCell.Tab.0.center" timestamp="1603570971537">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603562297778" />
+    <state width="978" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1603570971537" />
+    <state width="978" height="245" key="GridCell.Tab.0.left" timestamp="1603570971537">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603562297778" />
+    <state width="978" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1603570971537" />
+    <state width="978" height="245" key="GridCell.Tab.0.right" timestamp="1603570971538">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603562297779" />
+    <state width="978" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1603570971538" />
+    <state x="821" y="23" width="619" height="395" key="dock-window-1" timestamp="1603563482133">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="821" y="23" width="619" height="395" key="dock-window-1/0.23.1440.877@0.23.1440.877" timestamp="1603563482133" />
+    <state x="105" y="165" width="670" height="676" key="search.everywhere.popup" timestamp="1603563098681">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="105" y="165" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1603563098681" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jkaplanlab4$lab4.coverage" NAME="lab4 Coverage Results" MODIFIED="1603570971527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
   </component>
 </project>
